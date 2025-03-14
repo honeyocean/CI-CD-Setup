@@ -3,14 +3,10 @@
 
 ## Description
 
-
-
-## Installation
-
-
+Create a CI/CD pipeline with GitHub actions.
 
 ## Usage
-
+[https://ci-cd-setup-2.onrender.com]
 
 ## Credits
 
